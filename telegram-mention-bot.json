@@ -1,12 +1,12 @@
 {
   "owners": [
-    123456789,
-    987654321,
-    555666777
+    933482815
   ],
   "last_updated": "2025-08-08",
   "version": "1.0",
   "bot_name": "Telegram Mention Bot",
-  "license_type": "commercial",
-  "note": "Valid license holders for Telegram Mention Bot"
+  "license_type": "commercial", 
+  "note": "Valid license holders for Telegram Mention Bot - Contact @iamnolimit for license",
+  "developer": "iamnolimit",
+  "support": "https://t.me/iamnolimit"
 }
